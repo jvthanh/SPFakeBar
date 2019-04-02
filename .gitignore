@@ -1,1 +1,5 @@
 .DS_Store
+Carthage
+*.xcodeproj/xcuserdata/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*
+
